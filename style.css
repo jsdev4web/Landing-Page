@@ -1,0 +1,19 @@
+.header {
+    height: 275px;
+    background-color: #1F2937;
+}
+
+.info {
+    height: 225px;
+}
+
+.quote {
+    height: 225px;
+    background-color: #E5E7Eb;
+}
+
+.footer {
+    color: white;
+    height: 47px;
+    background-color: #1F2937;
+}
